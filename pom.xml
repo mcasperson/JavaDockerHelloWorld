@@ -11,7 +11,7 @@
 	<groupId>com.matthewcasperson</groupId>
 	<artifactId>javadockerhelloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>javadcoker</name>
+	<name>javadocker</name>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -41,10 +41,6 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
 				<executions>
 					<execution>
 						<goals>
@@ -55,5 +51,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
