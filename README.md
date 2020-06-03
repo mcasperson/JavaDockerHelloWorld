@@ -1,0 +1,1 @@
+This is the source code for the book [ECR, EKS and Java Docker images: A step by step guide to deploying to Kubernetes in AWS](https://www.amazon.com/ECR-EKS-Java-Docker-images-ebook/dp/B089FPSS9V/ref=sr_1_7?dchild=1&keywords=matthew+casperson&qid=1591219336&sr=8-7).
